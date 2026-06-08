@@ -1,7 +1,7 @@
 # Privacy Policy — ComOps360 Commissioning App (Android)
 
-**Effective date:** _[INSERT DATE]_
-**Last updated:** _[INSERT DATE]_
+**Effective date:** 08-06-2026
+**Last updated:** 08-06-2026
 
 This Privacy Policy explains how the **ComOps360 Commissioning App** ("the App," "we,"
 "us," or "our"), provided by **FTC Solar, Inc.** ("FTC Solar"), handles information when you
@@ -165,18 +165,3 @@ the updated policy.
 
 ---
 
-## 12. Contact Us
-
-If you have questions about this Privacy Policy or our data practices, contact:
-
-**FTC Solar, Inc.**
-Attn: Privacy / Data Protection
-Email: _[INSERT PRIVACY CONTACT EMAIL]_
-Address: _[INSERT COMPANY MAILING ADDRESS]_
-Website: _[INSERT WEBSITE / POLICY URL]_
-
----
-
-_This document is provided to support the Google Play Store listing for the ComOps360
-Commissioning App. It should be reviewed and approved by FTC Solar's legal/compliance team
-and hosted at a public URL for the Play Console listing._
